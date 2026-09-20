@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20Builder&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
-<img src="assets/picture.png" width="170" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
+<img src="assets/picture.jpg" width="100%" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
 
 <br/>
 
