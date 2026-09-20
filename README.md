@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20Builder&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
-<img src="assets/profile.jpg" width="170" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
+<img src="assets/picture.png" width="170" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=I+turn+messy+data+into+decisions;I+turn+prompts+into+production+AI;Data+Analyst+%7C+GenAI+Engineer;Currently+building+%40+Meridian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Turning+Messy+Data+into+Business+Decisions;Turning+Prompts+into+Production+AI;Data+Analyst+%7C+GenAI+Engineer;Currently+building+%40+Meridian)](https://git.io/typing-svg)
 
 <p>
-<a href="https://www.linkedin.com/in/aryan-roy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/helloaryanroy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:royaryan932@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/aryanroy666"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
@@ -144,12 +144,9 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanroy666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&count_private=true" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanroy666&theme=tokyonight&hide_border=true&background=0F2027&ring=00E5FF&fire=00E5FF" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanroy666&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00E5FF&line=00E5FF&point=ffffff" width="97%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryanroy666&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="97%"/>
 
 </div>
 
@@ -160,7 +157,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 ### Actively looking for **Data Analyst / GenAI Engineer** roles.
 If you're building with data and AI, I'd love to talk.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-roy/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloaryanroy/)
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royaryan932@gmail.com)
 
 </div>
