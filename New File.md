@@ -162,27 +162,13 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 ## Experience
 
-**Quality Analyst** — Solvitude Solutions Pvt. Ltd. · *May 2021 – Apr 2023*
-
-| Impact | Result |
-|---|---|
-| Data auditing across large-scale datasets (SQL + Excel) | **+20%** data accuracy |
-| KPI tracking & critical issue escalation | **76%** resolved within target timeframe |
-| Structured audit reports across concurrent projects | Integrity preserved across **28 projects** |
-| New data validation protocol + cross-functional training | **-18%** data entry errors |
-| Centralized defect-tracking dashboard | **30% faster** bug triage |
-| Peer-review system for audit reports | **-25%** supervisor re-work |
+<img src="assets/experience_dashboard.png" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
 ## Education & Certifications
 
-| Degree / Certification | Institution | Details |
-|---|---|---|
-| M.Sc. Computer Science — AI & ML | Electronics & ICT Academy, **IIT Guwahati** | 2023–2025 · CGPA 9.4/10 |
-| Bachelor of Business Administration | Dinabandhu Andrews Institute of Technology & Management | 2019–2022 · CGPA 9.3/10 |
-| Career Essentials in Generative AI | Microsoft & LinkedIn | Certified |
-| The Fundamentals of Digital Marketing | Google | Certified |
+<img src="assets/education_achievements.png" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
