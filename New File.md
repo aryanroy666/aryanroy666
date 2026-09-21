@@ -19,18 +19,9 @@
 
 ## About Me
 
-> [!TIP]
-> **AI/ML postgrad (IIT Guwahati, 9.4 CGPA) who started in Quality Analysis auditing 20+ live projects — now builds the multi-agent AI systems and dashboards that data teams actually ship.**
+<img src="assets/about_me_terminal.png" width="100%"/>
 
-I don't just clean data or wire up an LLM call and call it done. My background is in finding the inconsistency nobody else caught — and that same rigor is what makes my GenAI builds production-grade instead of demo-grade.
-
-| | |
-|---|---|
-| 🎓 **Education** | M.Sc. AI & ML, IIT Guwahati — CGPA 9.4/10 |
-| 🧪 **Background** | 2 years auditing data integrity across 28 concurrent enterprise projects |
-| 🤖 **Now building** | Multi-agent GenAI systems, RAG pipelines, decision-support tools |
-| 🥋 **Off-keyboard** | State-level MMA competitor — Black Belt, 3 Gold + 7 Silver medals |
-| 📫 **Reach me** | royaryan932@gmail.com |
+I don't just clean data or wire up an LLM call and call it done. My background is in finding the inconsistency nobody else caught — and that same rigor is what makes my GenAI builds production-grade instead of demo-grade. 🎓 IIT Guwahati · 🥋 Black Belt, 3 Gold + 7 Silver medals · 📫 royaryan932@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
