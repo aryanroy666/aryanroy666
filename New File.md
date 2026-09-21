@@ -112,13 +112,13 @@ I don't just clean data or wire up an LLM call and call it done. My background i
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=MERIDIAN&fontSize=30&fontColor=0F2027&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=MERIDIAN&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
 
 **AI Market Research & Strategy Engine**
 *React · Vite · Tailwind CSS · REST API · Vercel — Sept 2026*
@@ -131,9 +131,9 @@ A multi-agent AI system that turns a research question into a decision-ready, ev
 
 <img src="https://img.shields.io/badge/API%20ERRORS-%E2%86%9315%25-3ddc84?style=for-the-badge"/> <img src="https://img.shields.io/badge/REPORT%20SPEED-%E2%86%9120%25-ADFF2F?style=for-the-badge&labelColor=0F2027"/> <img src="https://img.shields.io/badge/PIPELINE-7--STAGE-fafad2?style=for-the-badge&labelColor=0F2027"/>
 
-- ⚡ Real-time animated progress UI tracking every stage — no blind loading states
-- 🗂️ Tabbed **Report / Evidence / Sources** viewer for one-click traceability
-- 🔧 Engineered the data pipeline behind both the speed and reliability gains
+- Real-time animated progress UI tracking every stage — no blind loading states
+- Tabbed **Report / Evidence / Sources** viewer for one-click traceability
+- Engineered the data pipeline behind both the speed and reliability gains
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
@@ -142,7 +142,7 @@ A multi-agent AI system that turns a research question into a decision-ready, ev
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=AIRBNB%20NYC&fontSize=30&fontColor=0F2027&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=AIRBNB&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
 
 **NYC Booking Analysis**
 *Python · Pandas · EDA · Time Series — Aug 2025*
@@ -155,9 +155,9 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://img.shields.io/badge/DATA%20ISSUES-%E2%86%9325%25-3ddc84?style=for-the-badge"/> <img src="https://img.shields.io/badge/PEAK%20BOOKINGS-60%25-ADFF2F?style=for-the-badge&labelColor=0F2027"/> <img src="https://img.shields.io/badge/CANCELLATIONS-30%25-fafad2?style=for-the-badge&labelColor=0F2027"/>
 
-- 🧹 Systematic cleaning/preprocessing pipeline built for reliability at scale
-- 📈 Time-series + regional analysis surfacing seasonal pricing patterns
-- 🚩 Flagged high-risk regions to directly inform cancellation policy
+- Systematic cleaning/preprocessing pipeline built for reliability at scale
+- Time-series + regional analysis surfacing seasonal pricing patterns
+- Flagged high-risk regions to directly inform cancellation policy
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Time%20Series-333?style=flat-square"/>
 
@@ -169,7 +169,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 💼 Experience
+## Experience
 
 **Quality Analyst** — Solvitude Solutions Pvt. Ltd. · *May 2021 – Apr 2023*
 
@@ -184,7 +184,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 | Degree / Certification | Institution | Details |
 |---|---|---|
@@ -195,7 +195,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
