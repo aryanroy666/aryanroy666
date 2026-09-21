@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=66&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
 <br/>
 
@@ -19,18 +19,7 @@
 
 ## About Me
 
-> [!TIP]
-> **AI/ML postgrad (IIT Guwahati, 9.4 CGPA) who started in Quality Analysis auditing 20+ live projects — now builds the multi-agent AI systems and dashboards that data teams actually ship.**
-
-I don't just clean data or wire up an LLM call and call it done. My background is in finding the inconsistency nobody else caught — and that same rigor is what makes my GenAI builds production-grade instead of demo-grade.
-
-| | |
-|---|---|
-| 🎓 **Education** | M.Sc. AI & ML, IIT Guwahati — CGPA 9.4/10 |
-| 🧪 **Background** | 2 years auditing data integrity across 28 concurrent enterprise projects |
-| 🤖 **Now building** | Multi-agent GenAI systems, RAG pipelines, decision-support tools |
-| 🥋 **Off-keyboard** | State-level MMA competitor — Black Belt, 3 Gold + 7 Silver medals |
-| 📫 **Reach me** | royaryan932@gmail.com |
+<img src="assets/about_me_terminal.png" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
@@ -114,76 +103,90 @@ I don't just clean data or wire up an LLM call and call it done. My background i
 
 ## Featured Projects
 
-### [Meridian — AI Market Research & Strategy Engine](https://github.com/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=MERIDIAN&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
+
+**AI Market Research & Strategy Engine**
 *React · Vite · Tailwind CSS · REST API · Vercel — Sept 2026*
+
+![Status](https://img.shields.io/badge/status-active-ADFF2F?style=flat-square&logoColor=black)
+![Stars](https://img.shields.io/github/stars/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine?style=flat-square&color=ADFF2F&label=stars)
+![Last Commit](https://img.shields.io/github/last-commit/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine?style=flat-square&color=fafad2&label=updated)
 
 A multi-agent AI system that turns a research question into a decision-ready, evidence-backed report.
 
-> [!IMPORTANT]
-> **⬇️15% API error rate** &nbsp;·&nbsp; **⬆️20% faster report generation** &nbsp;·&nbsp; **7-stage** live-tracked research pipeline
+<img src="https://img.shields.io/badge/API%20ERRORS-%E2%86%9315%25-3ddc84?style=for-the-badge"/> <img src="https://img.shields.io/badge/REPORT%20SPEED-%E2%86%9120%25-ADFF2F?style=for-the-badge&labelColor=0F2027"/> <img src="https://img.shields.io/badge/PIPELINE-7--STAGE-fafad2?style=for-the-badge&labelColor=0F2027"/>
 
-- Built a real-time animated progress interface tracking every stage of the pipeline — no blind loading states
-- Designed a tabbed **Report / Evidence / Sources** viewer for one-click navigation from any finding to its source
-- Engineered the data pipeline backing both the speed and reliability gains above
+- Real-time animated progress UI tracking every stage — no blind loading states
+- Tabbed **Report / Evidence / Sources** viewer for one-click traceability
+- Engineered the data pipeline behind both the speed and reliability gains
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-<br/>
+[![View Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-→-ADFF2F?style=for-the-badge&logoColor=black&labelColor=0F2027)](https://github.com/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine)
 
-### [Airbnb NYC Booking Analysis](https://github.com/aryanroy666/Airbnb-NYC-Booking-Analysis)
+</td>
+<td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=AIRBNB&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
+
+**NYC Booking Analysis**
 *Python · Pandas · EDA · Time Series — Aug 2025*
+
+![Status](https://img.shields.io/badge/status-completed-fafad2?style=flat-square&logoColor=black)
+![Stars](https://img.shields.io/github/stars/aryanroy666/Airbnb-NYC-Booking-Analysis?style=flat-square&color=ADFF2F&label=stars)
+![Last Commit](https://img.shields.io/github/last-commit/aryanroy666/Airbnb-NYC-Booking-Analysis?style=flat-square&color=fafad2&label=updated)
 
 End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**.
 
-> [!IMPORTANT]
-> **⬇️25% data inconsistencies** &nbsp;·&nbsp; **60%** of bookings cluster in peak months &nbsp;·&nbsp; **30%** cancellation rate in flagged high-risk regions
+<img src="https://img.shields.io/badge/DATA%20ISSUES-%E2%86%9325%25-3ddc84?style=for-the-badge"/> <img src="https://img.shields.io/badge/PEAK%20BOOKINGS-60%25-ADFF2F?style=for-the-badge&labelColor=0F2027"/> <img src="https://img.shields.io/badge/CANCELLATIONS-30%25-fafad2?style=for-the-badge&labelColor=0F2027"/>
 
-- Systematic cleaning/preprocessing pipeline that made downstream analysis reliable at scale
-- Time-series and regional analysis that directly informs seasonal pricing and cancellation policy
+- Systematic cleaning/preprocessing pipeline built for reliability at scale
+- Time-series + regional analysis surfacing seasonal pricing patterns
+- Flagged high-risk regions to directly inform cancellation policy
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Time%20Series-333?style=flat-square"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
+[![View Repo](https://img.shields.io/badge/VIEW%20REPOSITORY-→-ADFF2F?style=for-the-badge&logoColor=black&labelColor=0F2027)](https://github.com/aryanroy666/Airbnb-NYC-Booking-Analysis)
 
-## 💼 Experience
-
-**Quality Analyst** — Solvitude Solutions Pvt. Ltd. · *May 2021 – Apr 2023*
-
-| Impact | Result |
-|---|---|
-| Data auditing across large-scale datasets (SQL + Excel) | **+20%** data accuracy |
-| KPI tracking & critical issue escalation | **76%** resolved within target timeframe |
-| Structured audit reports across concurrent projects | Integrity preserved across **28 projects** |
-| New data validation protocol + cross-functional training | **-18%** data entry errors |
-| Centralized defect-tracking dashboard | **30% faster** bug triage |
-| Peer-review system for audit reports | **-25%** supervisor re-work |
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🎓 Education & Certifications
+## Experience
 
-| Degree / Certification | Institution | Details |
-|---|---|---|
-| M.Sc. Computer Science — AI & ML | Electronics & ICT Academy, **IIT Guwahati** | 2023–2025 · CGPA 9.4/10 |
-| Bachelor of Business Administration | Dinabandhu Andrews Institute of Technology & Management | 2019–2022 · CGPA 9.3/10 |
-| Career Essentials in Generative AI | Microsoft & LinkedIn | Certified |
-| The Fundamentals of Digital Marketing | Google | Certified |
+<img src="assets/experience_dashboard.png" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 📊 GitHub Activity
+## Education & Certifications
+
+<img src="assets/education_achievements.png" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
+
+## GitHub Activity
 
 <div align="center">
 
 
-![](https://github-readme-stats.shion.dev/api?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aryanroy666&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aryanroy666&bg_color=00000000&color=adff2f&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
