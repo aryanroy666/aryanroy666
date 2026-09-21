@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=7CB9E8&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
 <img src="assets/picture.jpg" width="100%" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=7CB9E8&center=true&vCenter=true&width=1200&lines=Turning+Data+into+Insights;Building+AI+into+Solutions;Where+Data+Meets+Intelligence+and+Business;From+Business+Problems+to+Data+Driven+Solutions;Data+Analytics+%7C+Artificial+Intelligence+%7C+Machine+Learning+%7CBusiness+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=fafad2&center=true&vCenter=true&width=1200&lines=Turning+Data+into+Insights;Building+AI+into+Solutions;Where+Data+Meets+Intelligence+and+Business;From+Business+Problems+to+Data+Driven+Solutions;Data+Analytics+%7C+Artificial+Intelligence+%7C+Machine+Learning+%7CBusiness+Intelligence)](https://git.io/typing-svg)
 
 <p>
 <a href="https://www.linkedin.com/in/helloaryanroy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
