@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=90&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
 <br/>
 
@@ -20,8 +20,6 @@
 ## About Me
 
 <img src="assets/about_me_terminal.png" width="100%"/>
-
-I don't just clean data or wire up an LLM call and call it done. My background is in finding the inconsistency nobody else caught — and that same rigor is what makes my GenAI builds production-grade instead of demo-grade. 🎓 IIT Guwahati · 🥋 Black Belt, 3 Gold + 7 Silver medals · 📫 royaryan932@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
@@ -184,7 +182,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=150&section=footer" width="100%"/>
 
 <div align="center">
 
