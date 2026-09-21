@@ -175,9 +175,10 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 <div align="center">
 
 
-![](https://github-readme-stats.shion.dev/api?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aryanroy666&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="41%"/>
+<img src="https://streak-stats.demolab.com/?user=aryanroy666&theme=chartreuse-dark&hide_border=true" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanroy666&bg_color=0F2027&color=ADFF2F&line=ADFF2F&point=fafad2&area=true&area_color=ADFF2F&title_color=fafad2&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryanroy666&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%"/>
 
 
 </div>
