@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
-<img src="assets/picture.jpg" width="100%" style="border-radius:50%;border:4px solid #00E5FF;margin-top:-10px;"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=fafad2&center=true&vCenter=true&width=1200&lines=Turning+Data+into+Insights;Building+AI+into+Solutions;Where+Data+Meets+Intelligence+and+Business;From+Business+Problems+to+Data+Driven+Solutions;Data+Analytics+%7C+Artificial+Intelligence+%7C+Machine+Learning+%7CBusiness+Intelligence)](https://git.io/typing-svg)
@@ -19,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🧭 About Me
+## About Me
 
 > [!TIP]
 > **AI/ML postgrad (IIT Guwahati, 9.4 CGPA) who started in Quality Analysis auditing 20+ live projects — now builds the multi-agent AI systems and dashboards that data teams actually ship.**
@@ -36,7 +34,7 @@ I don't just clean data or wire up an LLM call and call it done. My background i
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -114,9 +112,9 @@ I don't just clean data or wire up an LLM call and call it done. My background i
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧠 [Meridian — AI Market Research & Strategy Engine](https://github.com/aryanroy666/meridian)
+### [Meridian — AI Market Research & Strategy Engine](https://github.com/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine)
 *React · Vite · Tailwind CSS · REST API · Vercel — Sept 2026*
 
 A multi-agent AI system that turns a research question into a decision-ready, evidence-backed report.
@@ -132,7 +130,7 @@ A multi-agent AI system that turns a research question into a decision-ready, ev
 
 <br/>
 
-### 🏙️ [Airbnb NYC Booking Analysis](https://github.com/aryanroy666/airbnb-nyc-booking-analysis)
+### [Airbnb NYC Booking Analysis](https://github.com/aryanroy666/Airbnb-NYC-Booking-Analysis)
 *Python · Pandas · EDA · Time Series — Aug 2025*
 
 End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**.
@@ -144,8 +142,6 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 - Time-series and regional analysis that directly informs seasonal pricing and cancellation policy
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Time%20Series-333?style=flat-square"/>
-
-> 📌 *Swap the two links above for your real repo URLs.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
