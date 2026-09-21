@@ -190,8 +190,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <div align="center">
 
-### Actively looking for **Data Analyst / GenAI Engineer** roles.
-If you're building with data and AI, I'd love to talk.
+###If you're building with data and AI, I'd love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloaryanroy/)
 [![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royaryan932@gmail.com)
