@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=90&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
 <br/>
 
@@ -175,8 +175,8 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 <div align="center">
 
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=2ea043&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=2ea043&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
