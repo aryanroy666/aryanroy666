@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=66&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=220&section=header&text=Aryan%20Roy&fontSize=70&fontColor=fafad2&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%&descAlignY=58&descSize=20&descColor=E0E0E0" width="100%"/>
 
 <br/>
 
@@ -26,11 +26,10 @@
 ## Tech Stack
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Libraries & Data Science
@@ -64,8 +63,8 @@
 
 ### BI & Reporting
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-FF6F00?style=for-the-badge)
 ![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-EF6C00?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F57C00?style=for-the-badge)
@@ -78,14 +77,12 @@
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-8A2BE2?style=for-the-badge&logo=microsoft&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 ### Design & Creative Tools
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?style=for-the-badge&logo=adobelightroomclassic&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EE3F24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
@@ -158,16 +155,19 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## Experience
-
-<img src="assets/experience_dashboard.png" width="100%"/>
-
+## Education
+ 
+<img src="assets/education_panel.png" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## Education & Certifications
+## Certifications
+ 
+<img src="assets/certifications_panel.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-<img src="assets/education_achievements.png" width="100%"/>
-
+## Achievements
+ 
+<img src="assets/achievements_panel.png" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
 ## GitHub Activity
@@ -190,6 +190,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <div align="center">
 
+### Actively looking for **Data Analyst / GenAI Engineer** roles.
 If you're building with data and AI, I'd love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloaryanroy/)
