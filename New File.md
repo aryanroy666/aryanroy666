@@ -155,6 +155,11 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
+## Experience
+ 
+<img src="assets/experience_dashboard.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
+
 ## Education
  
 <img src="assets/education_panel.png" width="100%"/>
