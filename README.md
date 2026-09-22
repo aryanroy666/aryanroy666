@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=MERIDIAN&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:00008b&height=70&section=header&text=MERIDIAN&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
 
 **AI Market Research & Strategy Engine**
 *React · Vite · Tailwind CSS · REST API · Vercel — Sept 2026*
@@ -128,7 +128,7 @@ A multi-agent AI system that turns a research question into a decision-ready, ev
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ADFF2F&height=70&section=header&text=AIRBNB&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:ff0000&height=70&section=header&text=AIRBNB&fontSize=30&fontColor=fafad2&fontAlignY=55" width="100%"/>
 
 **NYC Booking Analysis**
 *Python · Pandas · EDA · Time Series — Aug 2025*
