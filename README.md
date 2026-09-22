@@ -164,11 +164,11 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+<img src="assets/commit_spaceship.svg" width="100%"/>
+
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aryanroy666&bg_color=00000000&color=adff2f&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-<img src="assets/commit_spaceship.svg" width="100%"/>
 
 </div>
 
