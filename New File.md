@@ -155,26 +155,6 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## Experience
- 
-<img src="assets/experience_dashboard.png" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
-
-## Education
- 
-<img src="assets/education_panel.png" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
-
-## Certifications
- 
-<img src="assets/certifications_panel.png" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
-
-## Achievements
- 
-<img src="assets/achievements_panel.png" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
-
 ## GitHub Activity
 
 <div align="center">
@@ -188,6 +168,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aryanroy666&bg_color=00000000&color=adff2f&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+<img src="assets/commit_spaceship.svg" width="100%"/>
 
 </div>
 
@@ -195,7 +176,6 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <div align="center">
 
-### Actively looking for **Data Analyst / GenAI Engineer** roles.
 If you're building with data and AI, I'd love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloaryanroy/)
