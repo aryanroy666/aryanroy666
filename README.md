@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img src="https://raw.githubusercontent.com/aryanroy666/aryanroy666/main/assets/aryan-banner-v3.svg" width="100%">
+<img src="https://raw.githubusercontent.com/aryanroy666/aryanroy666/main/assets/aryan-banner-v4.svg" width="100%">
 
 ## Tech Stack
 
