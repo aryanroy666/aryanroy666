@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/aryanroy666/aryanroy666/main/banner-v6.svg)
+![Banner](https://raw.githubusercontent.com/aryanroy666/aryanroy666/assets/banner-v6.svg)
 
 <br/>
 
