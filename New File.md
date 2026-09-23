@@ -161,16 +161,19 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 <div align="center">
 
+<table>
+  <tr>
+    <td><img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" /></td>
+    <td><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanroy666&background=00000000&ring=adff2f&fire=adff2f&currStreakLabel=adff2f&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=4a5560&hide_border=true" alt="streak stats" /></td>
+    <td><img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" /></td>
+  </tr>
+</table>
 
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+<img src="assets/commit_spaceship.svg" width="100%"/>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=aryanroy666&bg_color=00000000&color=adff2f&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-<img src="assets/commit_spaceship.svg" width="100%"/>
 
 </div>
 
