@@ -173,8 +173,6 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:adff2f&height=150&section=footer" width="100%"/>
-
 <div align="center">
 
 Data. AI. Real-world impact. If that’s your space, let’s connect.
