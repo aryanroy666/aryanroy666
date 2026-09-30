@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=4" width="100%"/>
 
-## About Me
+## Profile
 
 <img src="https://raw.githubusercontent.com/aryanroy666/aryanroy666/main/assets/aryan-banner-v4.svg" width="100%">
 
