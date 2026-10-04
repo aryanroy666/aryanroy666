@@ -108,7 +108,7 @@
 *React · Vite · Tailwind CSS · REST API · Vercel — Sept 2026*
 
 ![Status](https://img.shields.io/badge/Status-Active-ADFF2F?style=flat-square&logoColor=black)
-![Stars](https://img.shields.io/github/Stars/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine?style=flat-square&color=ADFF2F&label=stars)
+![Stars](https://img.shields.io/github/stars/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine?style=flat-square&color=ADFF2F&label=stars)
 ![Last Commit](https://img.shields.io/github/last-commit/aryanroy666/Meridian-AI-Market-Research-Strategy-Engine?style=flat-square&color=fafad2&label=updated)
 
 A multi-agent AI system that turns a research question into a decision-ready, evidence-backed report.
@@ -131,7 +131,7 @@ A multi-agent AI system that turns a research question into a decision-ready, ev
 **NYC Booking Analysis**
 *Python · Pandas · EDA · Time Series — Aug 2025*
 
-![Status](https://img.shields.io/badge/Status-completed-fafad2?style=flat-square&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-fafad2?style=flat-square&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/aryanroy666/Airbnb-NYC-Booking-Analysis?style=flat-square&color=ADFF2F&label=stars)
 ![Last Commit](https://img.shields.io/github/last-commit/aryanroy666/Airbnb-NYC-Booking-Analysis?style=flat-square&color=fafad2&label=updated)
 
