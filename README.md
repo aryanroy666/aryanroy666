@@ -160,7 +160,7 @@ End-to-end exploratory analysis across **20,000+ listings, 10+ NYC-area cities**
 <table>
   <tr>
     <td><img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=aryanroy666&show_icons=true&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" /></td>
-    <td><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanroy666&background=00000000&ring=adff2f&fire=adff2f&currStreakLabel=adff2f&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=4a5560&hide_border=true" alt="streak stats" /></td>
+    <td><img height="165" src="https://streak-stats.demolab.com/?user=aryanroy666&background=00000000&ring=adff2f&fire=adff2f&currStreakLabel=adff2f&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=4a5560&hide_border=true" alt="streak stats" /></td>
     <td><img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=aryanroy666&layout=compact&theme=chartreuse-dark&title_color=adff2f&icon_color=adff2f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" /></td>
   </tr>
 </table>
